@@ -1,4 +1,0 @@
-config:
-  aws:region: us-east-1
-  aws:ami: ami-0fc5d935ebf8bc3bc
-  aws:bucket: mybucket
